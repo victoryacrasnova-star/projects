@@ -115,4 +115,5 @@ if __name__ == "__main__":
     add_task()           # Добавляем задачу
     show_tasks()         # Показываем все задачи
     run_checker()       # Начинаем фоновый процесс проверки задач
-    print()
+    names = input()
+    print(names)
