@@ -116,8 +116,12 @@ if __name__ == "__main__":
     show_tasks()         # Показываем все задачи
     run_checker()       # Начинаем фоновый процесс проверки задач
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     print("")
 
+=======
+    print("Hallo!")
+>>>>>>> Stashed changes
 =======
     print("Hallo!")
 >>>>>>> Stashed changes
